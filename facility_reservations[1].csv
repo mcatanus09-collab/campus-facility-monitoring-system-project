@@ -1,0 +1,401 @@
+Reservation_ID,User_Type,Facility_Type,Reservation_Date,Event_Date,Start_Time,End_Time,Duration_Hours,Participants,Purpose,Approval_Status,Days_Before_Event,After_Office_Hours,Actual_Attendance,Usage_Status,Cancellation_Days_Before
+R001,Organization,Classroom,2026-06-13,2026-06-17,08:00:00,11:00:00,3,27,Presentation,Approved,4,No,26,Used,0
+R002,Organization,Laboratory,2026-01-09,2026-01-10,08:00:00,10:00:00,2,87,Presentation,Approved,1,No,87,Used,0
+R003,Student,Multimedia Room,2026-02-26,2026-03-13,14:00:00,17:00:00,3,10,Lecture,Approved,15,No,0,Cancelled,13
+R004,Faculty,Conference Room,2026-03-13,2026-03-18,09:00:00,12:00:00,3,58,Workshop,Approved,5,No,57,Used,0
+R005,Student,Conference Room,2026-01-12,2026-02-05,13:00:00,14:00:00,1,58,Lecture,Approved,24,No,0,No-Show,0
+R006,Student,Laboratory,2026-05-28,2026-06-04,15:00:00,16:00:00,1,39,Class Activity,Approved,7,No,35,Used,0
+R007,Organization,Conference Room,2026-04-08,2026-04-17,13:00:00,16:00:00,3,55,Class Activity,Approved,9,No,52,Used,0
+R008,Organization,Laboratory,2026-06-05,2026-06-26,09:00:00,11:00:00,2,58,Lecture,Approved,21,No,54,Used,0
+R009,Student,Laboratory,2026-01-15,2026-01-23,18:00:00,19:00:00,1,61,Lecture,Approved,8,Yes,0,Cancelled,5
+R010,Student,Conference Room,2026-02-24,2026-03-17,13:00:00,17:00:00,4,92,Seminar,Approved,21,No,0,Cancelled,15
+R011,Faculty,Conference Room,2026-03-05,2026-03-29,14:00:00,17:00:00,3,64,Training,Approved,24,No,55,Used,0
+R012,Organization,Laboratory,2026-02-05,2026-02-22,13:00:00,14:00:00,1,24,Presentation,Approved,17,No,0,Cancelled,5
+R013,Faculty,Classroom,2026-06-02,2026-06-05,13:00:00,17:00:00,4,69,Class Activity,Approved,3,No,61,Used,0
+R014,Faculty,Multimedia Room,2026-06-24,2026-07-23,14:00:00,17:00:00,3,53,Seminar,Approved,29,No,0,Cancelled,4
+R015,Organization,Classroom,2026-04-27,2026-04-28,15:00:00,18:00:00,3,32,Workshop,Approved,1,No,0,No-Show,0
+R016,Organization,Classroom,2026-06-13,2026-06-30,14:00:00,16:00:00,2,30,Lecture,Approved,17,No,22,Used,0
+R017,Student,Laboratory,2026-05-06,2026-05-07,08:00:00,11:00:00,3,49,Class Activity,Approved,1,No,0,Cancelled,1
+R018,Student,Laboratory,2026-01-22,2026-02-15,13:00:00,14:00:00,1,78,Project Work,Approved,24,No,0,No-Show,0
+R019,Organization,Laboratory,2026-05-21,2026-05-27,10:00:00,14:00:00,4,79,Workshop,Approved,6,No,0,No-Show,0
+R020,Student,Laboratory,2026-04-13,2026-05-05,15:00:00,18:00:00,3,76,Training,Approved,22,No,69,Used,0
+R021,Organization,Classroom,2026-01-17,2026-01-28,08:00:00,10:00:00,2,10,Training,Approved,11,No,9,Used,0
+R022,Organization,Multimedia Room,2026-01-18,2026-02-16,08:00:00,11:00:00,3,40,Training,Approved,29,No,36,Used,0
+R023,Student,Classroom,2026-05-19,2026-05-24,15:00:00,19:00:00,4,70,Class Activity,Approved,5,No,64,Used,0
+R024,Organization,Classroom,2026-06-18,2026-07-02,10:00:00,14:00:00,4,16,Meeting,Approved,14,No,6,Used,0
+R025,Faculty,Laboratory,2026-04-14,2026-05-08,10:00:00,11:00:00,1,34,Presentation,Approved,24,No,26,Used,0
+R026,Organization,Classroom,2026-02-16,2026-02-25,13:00:00,15:00:00,2,19,Meeting,Approved,9,No,0,Cancelled,8
+R027,Student,Multimedia Room,2026-06-16,2026-07-04,18:00:00,19:00:00,1,40,Project Work,Approved,18,Yes,0,No-Show,0
+R028,Faculty,Classroom,2026-05-04,2026-05-11,18:00:00,22:00:00,4,31,Presentation,Approved,7,Yes,0,No-Show,0
+R029,Organization,Multimedia Room,2026-03-09,2026-04-08,18:00:00,22:00:00,4,99,Seminar,Approved,30,Yes,91,Used,0
+R030,Organization,Conference Room,2026-02-18,2026-02-28,09:00:00,10:00:00,1,79,Meeting,Approved,10,No,79,Used,0
+R031,Student,Classroom,2026-01-13,2026-02-01,13:00:00,15:00:00,2,75,Class Activity,Approved,19,No,74,Used,0
+R032,Organization,Classroom,2026-06-22,2026-07-20,09:00:00,13:00:00,4,82,Class Activity,Approved,28,No,79,Used,0
+R033,Organization,Conference Room,2026-04-18,2026-05-10,14:00:00,17:00:00,3,36,Training,Approved,22,No,0,No-Show,0
+R034,Faculty,Classroom,2026-03-09,2026-03-22,09:00:00,12:00:00,3,19,Class Activity,Approved,13,No,19,Used,0
+R035,Student,Conference Room,2026-05-18,2026-05-25,14:00:00,17:00:00,3,54,Workshop,Approved,7,No,53,Used,0
+R036,Student,Conference Room,2026-02-10,2026-02-25,18:00:00,21:00:00,3,93,Class Activity,Approved,15,Yes,85,Used,0
+R037,Faculty,Laboratory,2026-02-04,2026-02-13,08:00:00,09:00:00,1,29,Lecture,Approved,9,No,25,Used,0
+R038,Student,Multimedia Room,2026-02-22,2026-03-16,15:00:00,18:00:00,3,42,Workshop,Approved,22,No,42,Used,0
+R039,Organization,Multimedia Room,2026-01-12,2026-01-13,10:00:00,12:00:00,2,43,Presentation,Approved,1,No,41,Used,0
+R040,Student,Classroom,2026-05-24,2026-05-25,08:00:00,09:00:00,1,98,Lecture,Approved,1,No,0,No-Show,0
+R041,Student,Conference Room,2026-05-30,2026-06-17,09:00:00,13:00:00,4,49,Training,Approved,18,No,44,Used,0
+R042,Organization,Laboratory,2026-06-24,2026-07-02,15:00:00,16:00:00,1,81,Training,Approved,8,No,75,Used,0
+R043,Organization,Conference Room,2026-02-11,2026-03-09,18:00:00,20:00:00,2,13,Presentation,Approved,26,Yes,0,Cancelled,6
+R044,Faculty,Classroom,2026-06-21,2026-07-19,15:00:00,17:00:00,2,99,Project Work,Approved,28,No,98,Used,0
+R045,Student,Laboratory,2026-02-26,2026-03-05,18:00:00,22:00:00,4,39,Presentation,Approved,7,Yes,36,Used,0
+R046,Faculty,Multimedia Room,2026-03-26,2026-04-04,18:00:00,19:00:00,1,45,Lecture,Approved,9,Yes,0,No-Show,0
+R047,Student,Multimedia Room,2026-01-08,2026-01-12,10:00:00,12:00:00,2,43,Lecture,Approved,4,No,43,Used,0
+R048,Faculty,Classroom,2026-03-22,2026-04-05,14:00:00,15:00:00,1,83,Presentation,Approved,14,No,80,Used,0
+R049,Faculty,Conference Room,2026-01-01,2026-01-18,18:00:00,20:00:00,2,18,Class Activity,Approved,17,Yes,8,Used,0
+R050,Organization,Laboratory,2026-03-18,2026-04-04,10:00:00,14:00:00,4,99,Training,Approved,17,No,95,Used,0
+R051,Organization,Classroom,2026-04-18,2026-05-10,13:00:00,15:00:00,2,48,Workshop,Approved,22,No,42,Used,0
+R052,Student,Multimedia Room,2026-03-15,2026-03-22,13:00:00,16:00:00,3,66,Seminar,Approved,7,No,56,Used,0
+R053,Faculty,Laboratory,2026-06-18,2026-06-21,10:00:00,13:00:00,3,40,Training,Approved,3,No,30,Used,0
+R054,Student,Multimedia Room,2026-02-07,2026-02-08,08:00:00,10:00:00,2,88,Presentation,Approved,1,No,0,No-Show,0
+R055,Organization,Classroom,2026-06-11,2026-06-30,09:00:00,13:00:00,4,41,Class Activity,Approved,19,No,39,Used,0
+R056,Faculty,Laboratory,2026-04-19,2026-04-27,09:00:00,13:00:00,4,41,Project Work,Approved,8,No,40,Used,0
+R057,Organization,Multimedia Room,2026-06-20,2026-07-07,14:00:00,17:00:00,3,66,Project Work,Approved,17,No,0,No-Show,0
+R058,Faculty,Multimedia Room,2026-02-10,2026-03-06,18:00:00,22:00:00,4,41,Training,Approved,24,Yes,31,Used,0
+R059,Organization,Classroom,2026-03-12,2026-03-27,08:00:00,11:00:00,3,52,Seminar,Approved,15,No,47,Used,0
+R060,Faculty,Conference Room,2026-02-08,2026-02-16,13:00:00,15:00:00,2,18,Project Work,Approved,8,No,12,Used,0
+R061,Organization,Multimedia Room,2026-04-17,2026-04-19,09:00:00,13:00:00,4,84,Project Work,Approved,2,No,84,Used,0
+R062,Organization,Laboratory,2026-01-02,2026-01-14,10:00:00,14:00:00,4,63,Project Work,Approved,12,No,0,Cancelled,9
+R063,Organization,Multimedia Room,2026-02-26,2026-03-07,13:00:00,17:00:00,4,53,Seminar,Approved,9,No,43,Used,0
+R064,Organization,Classroom,2026-04-30,2026-05-30,09:00:00,10:00:00,1,85,Class Activity,Approved,30,No,0,No-Show,0
+R065,Faculty,Laboratory,2026-06-14,2026-06-28,09:00:00,13:00:00,4,43,Project Work,Approved,14,No,37,Used,0
+R066,Student,Multimedia Room,2026-03-25,2026-04-05,18:00:00,22:00:00,4,63,Meeting,Approved,11,Yes,59,Used,0
+R067,Student,Laboratory,2026-05-19,2026-05-21,10:00:00,12:00:00,2,93,Training,Approved,2,No,93,Used,0
+R068,Organization,Laboratory,2026-01-06,2026-01-26,09:00:00,11:00:00,2,95,Project Work,Approved,20,No,94,Used,0
+R069,Student,Conference Room,2026-06-29,2026-07-08,18:00:00,21:00:00,3,87,Class Activity,Approved,9,Yes,86,Used,0
+R070,Organization,Laboratory,2026-05-29,2026-05-30,10:00:00,14:00:00,4,35,Class Activity,Approved,1,No,34,Used,0
+R071,Faculty,Multimedia Room,2026-06-28,2026-07-23,10:00:00,11:00:00,1,82,Lecture,Approved,25,No,0,Cancelled,2
+R072,Student,Multimedia Room,2026-01-18,2026-02-04,15:00:00,18:00:00,3,63,Lecture,Approved,17,No,56,Used,0
+R073,Organization,Conference Room,2026-06-12,2026-07-11,18:00:00,22:00:00,4,65,Project Work,Approved,29,Yes,63,Used,0
+R074,Faculty,Multimedia Room,2026-04-30,2026-05-14,18:00:00,21:00:00,3,41,Training,Approved,14,Yes,40,Used,0
+R075,Student,Multimedia Room,2026-04-29,2026-05-18,14:00:00,18:00:00,4,73,Training,Approved,19,No,68,Used,0
+R076,Organization,Classroom,2026-04-01,2026-04-27,10:00:00,13:00:00,3,86,Training,Approved,26,No,82,Used,0
+R077,Organization,Multimedia Room,2026-01-22,2026-01-30,15:00:00,19:00:00,4,40,Project Work,Approved,8,No,33,Used,0
+R078,Organization,Conference Room,2026-01-05,2026-01-08,10:00:00,12:00:00,2,41,Project Work,Approved,3,No,37,Used,0
+R079,Faculty,Conference Room,2026-05-22,2026-06-08,10:00:00,14:00:00,4,80,Project Work,Approved,17,No,0,No-Show,0
+R080,Student,Laboratory,2026-03-11,2026-03-21,10:00:00,12:00:00,2,34,Training,Approved,10,No,29,Used,0
+R081,Faculty,Classroom,2026-02-25,2026-03-21,13:00:00,16:00:00,3,77,Training,Approved,24,No,68,Used,0
+R082,Student,Conference Room,2026-03-17,2026-03-25,10:00:00,12:00:00,2,100,Meeting,Approved,8,No,92,Used,0
+R083,Student,Conference Room,2026-01-14,2026-02-01,10:00:00,12:00:00,2,72,Project Work,Approved,18,No,71,Used,0
+R084,Faculty,Classroom,2026-05-03,2026-05-18,10:00:00,12:00:00,2,42,Class Activity,Approved,15,No,0,No-Show,0
+R085,Student,Laboratory,2026-04-13,2026-04-29,08:00:00,09:00:00,1,82,Class Activity,Approved,16,No,78,Used,0
+R086,Faculty,Conference Room,2026-05-23,2026-06-17,13:00:00,15:00:00,2,58,Presentation,Approved,25,No,0,Cancelled,15
+R087,Organization,Laboratory,2026-03-20,2026-04-08,14:00:00,15:00:00,1,22,Workshop,Approved,19,No,19,Used,0
+R088,Student,Multimedia Room,2026-06-19,2026-06-22,09:00:00,11:00:00,2,19,Project Work,Approved,3,No,17,Used,0
+R089,Organization,Multimedia Room,2026-06-26,2026-07-16,13:00:00,16:00:00,3,46,Class Activity,Approved,20,No,42,Used,0
+R090,Organization,Laboratory,2026-06-25,2026-07-03,10:00:00,12:00:00,2,79,Workshop,Approved,8,No,76,Used,0
+R091,Organization,Conference Room,2026-02-06,2026-02-09,08:00:00,10:00:00,2,86,Project Work,Approved,3,No,0,Cancelled,3
+R092,Organization,Multimedia Room,2026-02-01,2026-02-16,15:00:00,18:00:00,3,44,Project Work,Approved,15,No,36,Used,0
+R093,Student,Classroom,2026-01-21,2026-02-10,08:00:00,12:00:00,4,87,Training,Approved,20,No,83,Used,0
+R094,Faculty,Classroom,2026-06-22,2026-07-19,18:00:00,19:00:00,1,96,Seminar,Approved,27,Yes,0,No-Show,0
+R095,Organization,Multimedia Room,2026-05-01,2026-05-18,15:00:00,19:00:00,4,33,Project Work,Approved,17,No,0,No-Show,0
+R096,Student,Conference Room,2026-01-24,2026-02-09,10:00:00,14:00:00,4,95,Presentation,Approved,16,No,94,Used,0
+R097,Faculty,Classroom,2026-06-27,2026-07-13,10:00:00,14:00:00,4,80,Lecture,Approved,16,No,0,Cancelled,2
+R098,Organization,Multimedia Room,2026-03-06,2026-03-17,08:00:00,12:00:00,4,10,Presentation,Approved,11,No,0,Cancelled,11
+R099,Faculty,Classroom,2026-01-14,2026-01-21,14:00:00,17:00:00,3,73,Training,Approved,7,No,63,Used,0
+R100,Student,Classroom,2026-03-10,2026-03-28,09:00:00,12:00:00,3,99,Training,Approved,18,No,92,Used,0
+R101,Student,Multimedia Room,2026-02-10,2026-02-20,14:00:00,15:00:00,1,21,Class Activity,Approved,10,No,18,Used,0
+R102,Organization,Conference Room,2026-06-15,2026-07-12,09:00:00,13:00:00,4,47,Presentation,Approved,27,No,0,No-Show,0
+R103,Organization,Laboratory,2026-05-04,2026-05-20,09:00:00,13:00:00,4,59,Class Activity,Approved,16,No,56,Used,0
+R104,Student,Conference Room,2026-03-12,2026-04-06,18:00:00,22:00:00,4,74,Workshop,Approved,25,Yes,70,Used,0
+R105,Faculty,Conference Room,2026-05-31,2026-06-19,15:00:00,19:00:00,4,67,Lecture,Approved,19,No,0,Cancelled,18
+R106,Organization,Laboratory,2026-05-22,2026-06-16,14:00:00,18:00:00,4,51,Presentation,Approved,25,No,48,Used,0
+R107,Faculty,Laboratory,2026-03-01,2026-03-29,18:00:00,22:00:00,4,70,Project Work,Approved,28,Yes,64,Used,0
+R108,Organization,Multimedia Room,2026-01-10,2026-01-15,14:00:00,17:00:00,3,66,Meeting,Approved,5,No,0,Cancelled,1
+R109,Organization,Multimedia Room,2026-02-06,2026-02-20,18:00:00,20:00:00,2,43,Class Activity,Approved,14,Yes,38,Used,0
+R110,Organization,Multimedia Room,2026-03-26,2026-04-23,15:00:00,19:00:00,4,90,Meeting,Approved,28,No,0,No-Show,0
+R111,Faculty,Classroom,2026-06-08,2026-06-11,09:00:00,12:00:00,3,21,Class Activity,Approved,3,No,0,No-Show,0
+R112,Faculty,Classroom,2026-04-24,2026-04-30,15:00:00,18:00:00,3,15,Workshop,Approved,6,No,0,No-Show,0
+R113,Organization,Laboratory,2026-04-02,2026-04-14,13:00:00,15:00:00,2,62,Seminar,Approved,12,No,53,Used,0
+R114,Organization,Laboratory,2026-02-14,2026-02-17,14:00:00,18:00:00,4,40,Training,Approved,3,No,33,Used,0
+R115,Faculty,Laboratory,2026-04-29,2026-05-20,10:00:00,14:00:00,4,11,Class Activity,Approved,21,No,4,Used,0
+R116,Faculty,Conference Room,2026-04-24,2026-05-06,14:00:00,17:00:00,3,64,Training,Approved,12,No,60,Used,0
+R117,Organization,Conference Room,2026-04-09,2026-05-07,13:00:00,14:00:00,1,83,Workshop,Approved,28,No,78,Used,0
+R118,Organization,Classroom,2026-01-06,2026-02-02,15:00:00,19:00:00,4,82,Project Work,Approved,27,No,72,Used,0
+R119,Organization,Laboratory,2026-03-15,2026-04-09,18:00:00,20:00:00,2,55,Workshop,Approved,25,Yes,52,Used,0
+R120,Student,Conference Room,2026-06-23,2026-07-18,15:00:00,17:00:00,2,90,Project Work,Approved,25,No,80,Used,0
+R121,Organization,Multimedia Room,2026-01-09,2026-01-28,10:00:00,12:00:00,2,47,Seminar,Approved,19,No,42,Used,0
+R122,Faculty,Multimedia Room,2026-02-21,2026-02-26,18:00:00,21:00:00,3,44,Workshop,Approved,5,Yes,42,Used,0
+R123,Student,Multimedia Room,2026-03-28,2026-04-23,08:00:00,12:00:00,4,28,Lecture,Approved,26,No,0,No-Show,0
+R124,Faculty,Conference Room,2026-01-24,2026-02-19,13:00:00,14:00:00,1,25,Presentation,Approved,26,No,18,Used,0
+R125,Faculty,Laboratory,2026-06-13,2026-06-25,08:00:00,10:00:00,2,89,Class Activity,Approved,12,No,81,Used,0
+R126,Student,Classroom,2026-06-12,2026-07-09,13:00:00,16:00:00,3,24,Workshop,Approved,27,No,22,Used,0
+R127,Faculty,Conference Room,2026-05-07,2026-05-11,08:00:00,10:00:00,2,27,Presentation,Approved,4,No,0,Cancelled,4
+R128,Faculty,Multimedia Room,2026-05-31,2026-06-24,15:00:00,17:00:00,2,93,Workshop,Approved,24,No,0,Cancelled,4
+R129,Student,Conference Room,2026-01-09,2026-02-01,10:00:00,12:00:00,2,40,Lecture,Approved,23,No,35,Used,0
+R130,Student,Laboratory,2026-01-16,2026-01-29,10:00:00,12:00:00,2,68,Meeting,Approved,13,No,0,No-Show,0
+R131,Student,Classroom,2026-01-13,2026-02-08,10:00:00,12:00:00,2,82,Training,Approved,26,No,0,No-Show,0
+R132,Student,Conference Room,2026-05-31,2026-06-07,18:00:00,20:00:00,2,28,Seminar,Approved,7,Yes,19,Used,0
+R133,Student,Conference Room,2026-02-03,2026-02-21,10:00:00,12:00:00,2,13,Training,Approved,18,No,11,Used,0
+R134,Organization,Classroom,2026-05-31,2026-06-11,08:00:00,10:00:00,2,26,Class Activity,Approved,11,No,20,Used,0
+R135,Organization,Laboratory,2026-05-02,2026-05-17,18:00:00,21:00:00,3,23,Meeting,Approved,15,Yes,16,Used,0
+R136,Faculty,Multimedia Room,2026-06-18,2026-07-05,10:00:00,14:00:00,4,13,Presentation,Approved,17,No,13,Used,0
+R137,Organization,Laboratory,2026-06-25,2026-06-29,13:00:00,17:00:00,4,20,Class Activity,Approved,4,No,15,Used,0
+R138,Faculty,Multimedia Room,2026-02-02,2026-02-11,14:00:00,17:00:00,3,86,Presentation,Approved,9,No,78,Used,0
+R139,Organization,Laboratory,2026-01-26,2026-02-21,15:00:00,16:00:00,1,93,Presentation,Approved,26,No,0,Cancelled,25
+R140,Faculty,Classroom,2026-04-26,2026-05-25,09:00:00,13:00:00,4,68,Lecture,Approved,29,No,62,Used,0
+R141,Faculty,Classroom,2026-04-20,2026-05-01,15:00:00,18:00:00,3,29,Class Activity,Approved,11,No,19,Used,0
+R142,Organization,Classroom,2026-01-22,2026-01-25,13:00:00,14:00:00,1,57,Lecture,Approved,3,No,55,Used,0
+R143,Faculty,Conference Room,2026-06-21,2026-06-25,13:00:00,16:00:00,3,64,Lecture,Approved,4,No,0,Cancelled,1
+R144,Student,Conference Room,2026-01-27,2026-02-15,14:00:00,16:00:00,2,71,Lecture,Approved,19,No,68,Used,0
+R145,Organization,Classroom,2026-01-30,2026-02-24,10:00:00,12:00:00,2,81,Workshop,Approved,25,No,0,Cancelled,25
+R146,Student,Laboratory,2026-01-08,2026-01-14,10:00:00,13:00:00,3,54,Seminar,Approved,6,No,0,No-Show,0
+R147,Student,Laboratory,2026-05-25,2026-06-16,13:00:00,14:00:00,1,91,Presentation,Approved,22,No,91,Used,0
+R148,Organization,Classroom,2026-04-18,2026-05-03,10:00:00,12:00:00,2,51,Meeting,Approved,15,No,42,Used,0
+R149,Organization,Multimedia Room,2026-02-09,2026-02-15,18:00:00,19:00:00,1,44,Project Work,Approved,6,Yes,37,Used,0
+R150,Faculty,Multimedia Room,2026-06-05,2026-06-20,13:00:00,16:00:00,3,75,Class Activity,Approved,15,No,74,Used,0
+R151,Student,Multimedia Room,2026-03-14,2026-04-05,15:00:00,19:00:00,4,49,Meeting,Approved,22,No,49,Used,0
+R152,Faculty,Classroom,2026-01-02,2026-01-09,10:00:00,12:00:00,2,42,Meeting,Approved,7,No,0,Cancelled,3
+R153,Organization,Conference Room,2026-05-08,2026-06-01,13:00:00,15:00:00,2,78,Class Activity,Approved,24,No,75,Used,0
+R154,Faculty,Multimedia Room,2026-04-12,2026-05-10,15:00:00,16:00:00,1,68,Presentation,Approved,28,No,67,Used,0
+R155,Organization,Multimedia Room,2026-06-13,2026-06-27,10:00:00,11:00:00,1,51,Lecture,Approved,14,No,49,Used,0
+R156,Organization,Classroom,2026-01-23,2026-02-06,18:00:00,19:00:00,1,85,Presentation,Approved,14,Yes,79,Used,0
+R157,Organization,Classroom,2026-03-21,2026-04-14,10:00:00,12:00:00,2,31,Training,Approved,24,No,30,Used,0
+R158,Student,Laboratory,2026-03-31,2026-04-12,15:00:00,17:00:00,2,28,Seminar,Approved,12,No,24,Used,0
+R159,Faculty,Conference Room,2026-06-17,2026-06-20,09:00:00,13:00:00,4,82,Lecture,Approved,3,No,73,Used,0
+R160,Organization,Classroom,2026-02-08,2026-02-23,08:00:00,12:00:00,4,48,Lecture,Approved,15,No,44,Used,0
+R161,Faculty,Classroom,2026-05-10,2026-05-13,10:00:00,14:00:00,4,17,Class Activity,Approved,3,No,12,Used,0
+R162,Faculty,Laboratory,2026-06-07,2026-06-27,14:00:00,18:00:00,4,80,Lecture,Approved,20,No,80,Used,0
+R163,Student,Conference Room,2026-06-04,2026-06-20,14:00:00,16:00:00,2,67,Class Activity,Approved,16,No,0,No-Show,0
+R164,Organization,Laboratory,2026-05-10,2026-05-31,09:00:00,10:00:00,1,66,Lecture,Approved,21,No,59,Used,0
+R165,Organization,Classroom,2026-04-06,2026-05-06,10:00:00,14:00:00,4,53,Lecture,Approved,30,No,43,Used,0
+R166,Student,Conference Room,2026-01-17,2026-01-28,08:00:00,12:00:00,4,94,Class Activity,Approved,11,No,85,Used,0
+R167,Faculty,Laboratory,2026-05-30,2026-06-21,09:00:00,12:00:00,3,93,Class Activity,Approved,22,No,83,Used,0
+R168,Student,Multimedia Room,2026-03-21,2026-04-08,13:00:00,16:00:00,3,95,Lecture,Approved,18,No,0,Cancelled,17
+R169,Faculty,Laboratory,2026-01-05,2026-01-17,10:00:00,12:00:00,2,53,Training,Approved,12,No,0,No-Show,0
+R170,Organization,Classroom,2026-02-05,2026-02-10,08:00:00,11:00:00,3,22,Lecture,Approved,5,No,0,Cancelled,5
+R171,Student,Multimedia Room,2026-06-08,2026-06-13,14:00:00,18:00:00,4,33,Meeting,Approved,5,No,24,Used,0
+R172,Faculty,Multimedia Room,2026-04-16,2026-04-28,15:00:00,17:00:00,2,88,Training,Approved,12,No,0,No-Show,0
+R173,Faculty,Multimedia Room,2026-05-17,2026-05-25,10:00:00,14:00:00,4,34,Project Work,Approved,8,No,0,No-Show,0
+R174,Organization,Laboratory,2026-03-14,2026-04-08,13:00:00,17:00:00,4,35,Workshop,Approved,25,No,0,No-Show,0
+R175,Student,Conference Room,2026-01-14,2026-02-04,13:00:00,16:00:00,3,23,Class Activity,Approved,21,No,15,Used,0
+R176,Faculty,Conference Room,2026-02-11,2026-02-20,13:00:00,15:00:00,2,21,Meeting,Approved,9,No,0,Cancelled,4
+R177,Student,Classroom,2026-04-17,2026-04-19,13:00:00,16:00:00,3,20,Lecture,Approved,2,No,15,Used,0
+R178,Faculty,Multimedia Room,2026-01-26,2026-02-22,15:00:00,18:00:00,3,27,Seminar,Approved,27,No,0,Cancelled,2
+R179,Faculty,Laboratory,2026-06-30,2026-07-16,13:00:00,14:00:00,1,12,Seminar,Approved,16,No,0,No-Show,0
+R180,Faculty,Classroom,2026-05-21,2026-06-14,14:00:00,18:00:00,4,46,Meeting,Approved,24,No,43,Used,0
+R181,Organization,Classroom,2026-03-03,2026-03-17,15:00:00,19:00:00,4,73,Training,Approved,14,No,64,Used,0
+R182,Faculty,Laboratory,2026-02-06,2026-02-16,13:00:00,14:00:00,1,40,Class Activity,Approved,10,No,31,Used,0
+R183,Organization,Multimedia Room,2026-05-15,2026-05-27,08:00:00,09:00:00,1,70,Lecture,Approved,12,No,70,Used,0
+R184,Organization,Classroom,2026-03-06,2026-03-30,08:00:00,11:00:00,3,54,Lecture,Approved,24,No,0,Cancelled,8
+R185,Organization,Multimedia Room,2026-02-04,2026-02-06,10:00:00,13:00:00,3,32,Seminar,Approved,2,No,0,Cancelled,2
+R186,Student,Classroom,2026-02-04,2026-02-07,15:00:00,19:00:00,4,35,Lecture,Approved,3,No,35,Used,0
+R187,Faculty,Conference Room,2026-03-21,2026-04-07,13:00:00,17:00:00,4,92,Meeting,Approved,17,No,89,Used,0
+R188,Organization,Multimedia Room,2026-06-17,2026-06-28,10:00:00,11:00:00,1,65,Presentation,Approved,11,No,0,Cancelled,7
+R189,Student,Multimedia Room,2026-03-28,2026-04-03,13:00:00,17:00:00,4,76,Class Activity,Approved,6,No,72,Used,0
+R190,Student,Conference Room,2026-04-21,2026-05-11,18:00:00,20:00:00,2,51,Workshop,Approved,20,Yes,50,Used,0
+R191,Faculty,Classroom,2026-03-20,2026-04-04,14:00:00,18:00:00,4,66,Lecture,Approved,15,No,61,Used,0
+R192,Faculty,Laboratory,2026-06-07,2026-06-21,10:00:00,11:00:00,1,91,Meeting,Approved,14,No,85,Used,0
+R193,Organization,Conference Room,2026-02-06,2026-03-06,14:00:00,18:00:00,4,18,Lecture,Approved,28,No,15,Used,0
+R194,Faculty,Classroom,2026-04-09,2026-04-28,08:00:00,10:00:00,2,57,Seminar,Approved,19,No,52,Used,0
+R195,Student,Laboratory,2026-05-16,2026-05-28,13:00:00,16:00:00,3,41,Project Work,Approved,12,No,40,Used,0
+R196,Student,Conference Room,2026-05-13,2026-05-26,14:00:00,15:00:00,1,43,Project Work,Approved,13,No,36,Used,0
+R197,Organization,Conference Room,2026-02-21,2026-02-25,09:00:00,10:00:00,1,66,Lecture,Approved,4,No,65,Used,0
+R198,Faculty,Laboratory,2026-01-17,2026-02-04,14:00:00,17:00:00,3,30,Class Activity,Approved,18,No,0,Cancelled,6
+R199,Organization,Conference Room,2026-02-21,2026-03-19,09:00:00,11:00:00,2,13,Project Work,Approved,26,No,0,Cancelled,12
+R200,Organization,Multimedia Room,2026-05-22,2026-05-27,14:00:00,15:00:00,1,60,Presentation,Approved,5,No,53,Used,0
+R201,Organization,Conference Room,2026-05-28,2026-05-31,09:00:00,12:00:00,3,67,Seminar,Approved,3,No,60,Used,0
+R202,Organization,Classroom,2026-05-22,2026-06-12,14:00:00,16:00:00,2,26,Class Activity,Approved,21,No,0,Cancelled,14
+R203,Faculty,Conference Room,2026-05-13,2026-05-18,10:00:00,12:00:00,2,100,Class Activity,Approved,5,No,97,Used,0
+R204,Organization,Classroom,2026-03-06,2026-03-13,15:00:00,18:00:00,3,48,Seminar,Approved,7,No,39,Used,0
+R205,Organization,Classroom,2026-06-01,2026-06-20,09:00:00,11:00:00,2,87,Meeting,Approved,19,No,82,Used,0
+R206,Organization,Classroom,2026-01-21,2026-01-23,15:00:00,18:00:00,3,83,Project Work,Approved,2,No,77,Used,0
+R207,Faculty,Multimedia Room,2026-06-10,2026-06-28,10:00:00,13:00:00,3,97,Class Activity,Approved,18,No,91,Used,0
+R208,Faculty,Laboratory,2026-06-26,2026-06-28,09:00:00,13:00:00,4,69,Lecture,Approved,2,No,66,Used,0
+R209,Faculty,Classroom,2026-03-23,2026-04-16,18:00:00,21:00:00,3,26,Lecture,Approved,24,Yes,0,No-Show,0
+R210,Student,Conference Room,2026-03-03,2026-03-18,08:00:00,11:00:00,3,28,Presentation,Approved,15,No,27,Used,0
+R211,Faculty,Laboratory,2026-06-07,2026-06-21,09:00:00,11:00:00,2,83,Seminar,Approved,14,No,0,Cancelled,12
+R212,Student,Multimedia Room,2026-05-08,2026-05-25,13:00:00,17:00:00,4,73,Project Work,Approved,17,No,0,Cancelled,1
+R213,Organization,Multimedia Room,2026-03-03,2026-03-10,14:00:00,17:00:00,3,46,Workshop,Approved,7,No,39,Used,0
+R214,Faculty,Conference Room,2026-05-18,2026-05-19,18:00:00,19:00:00,1,43,Meeting,Approved,1,Yes,38,Used,0
+R215,Faculty,Multimedia Room,2026-04-13,2026-04-15,14:00:00,16:00:00,2,46,Workshop,Approved,2,No,45,Used,0
+R216,Faculty,Conference Room,2026-06-09,2026-07-01,14:00:00,15:00:00,1,22,Lecture,Approved,22,No,16,Used,0
+R217,Student,Conference Room,2026-02-06,2026-02-13,14:00:00,18:00:00,4,15,Project Work,Approved,7,No,15,Used,0
+R218,Student,Multimedia Room,2026-05-13,2026-05-28,09:00:00,11:00:00,2,88,Workshop,Approved,15,No,83,Used,0
+R219,Student,Conference Room,2026-06-01,2026-06-12,14:00:00,18:00:00,4,48,Lecture,Approved,11,No,41,Used,0
+R220,Organization,Multimedia Room,2026-06-22,2026-06-26,13:00:00,16:00:00,3,98,Workshop,Approved,4,No,0,Cancelled,1
+R221,Student,Multimedia Room,2026-06-17,2026-07-13,18:00:00,20:00:00,2,84,Seminar,Approved,26,Yes,77,Used,0
+R222,Faculty,Laboratory,2026-06-24,2026-07-02,08:00:00,09:00:00,1,66,Presentation,Approved,8,No,61,Used,0
+R223,Student,Laboratory,2026-06-26,2026-07-03,13:00:00,17:00:00,4,17,Lecture,Approved,7,No,0,Cancelled,6
+R224,Organization,Conference Room,2026-06-19,2026-07-05,14:00:00,18:00:00,4,32,Lecture,Approved,16,No,25,Used,0
+R225,Faculty,Conference Room,2026-06-23,2026-07-18,18:00:00,21:00:00,3,34,Training,Approved,25,Yes,31,Used,0
+R226,Faculty,Conference Room,2026-03-18,2026-04-12,10:00:00,12:00:00,2,72,Workshop,Approved,25,No,67,Used,0
+R227,Student,Conference Room,2026-03-15,2026-03-19,14:00:00,18:00:00,4,60,Meeting,Approved,4,No,0,Cancelled,3
+R228,Faculty,Multimedia Room,2026-03-15,2026-04-07,08:00:00,11:00:00,3,93,Training,Approved,23,No,0,No-Show,0
+R229,Faculty,Laboratory,2026-02-21,2026-03-20,14:00:00,17:00:00,3,99,Class Activity,Approved,27,No,0,No-Show,0
+R230,Student,Laboratory,2026-06-07,2026-07-01,14:00:00,16:00:00,2,95,Meeting,Approved,24,No,87,Used,0
+R231,Organization,Laboratory,2026-01-26,2026-02-09,10:00:00,14:00:00,4,27,Presentation,Approved,14,No,27,Used,0
+R232,Faculty,Classroom,2026-06-17,2026-07-17,13:00:00,17:00:00,4,46,Class Activity,Approved,30,No,41,Used,0
+R233,Faculty,Laboratory,2026-06-16,2026-07-05,09:00:00,10:00:00,1,32,Meeting,Approved,19,No,0,No-Show,0
+R234,Student,Classroom,2026-04-12,2026-05-08,13:00:00,15:00:00,2,47,Workshop,Approved,26,No,0,No-Show,0
+R235,Organization,Multimedia Room,2026-05-26,2026-06-15,08:00:00,11:00:00,3,92,Seminar,Approved,20,No,84,Used,0
+R236,Organization,Multimedia Room,2026-05-10,2026-05-25,10:00:00,12:00:00,2,52,Workshop,Approved,15,No,0,Cancelled,3
+R237,Student,Multimedia Room,2026-02-17,2026-02-18,15:00:00,18:00:00,3,82,Presentation,Approved,1,No,0,Cancelled,1
+R238,Faculty,Conference Room,2026-05-12,2026-05-23,08:00:00,12:00:00,4,33,Training,Approved,11,No,31,Used,0
+R239,Faculty,Classroom,2026-01-02,2026-01-11,13:00:00,15:00:00,2,44,Workshop,Approved,9,No,39,Used,0
+R240,Faculty,Laboratory,2026-06-17,2026-06-29,15:00:00,17:00:00,2,25,Presentation,Approved,12,No,18,Used,0
+R241,Faculty,Laboratory,2026-06-25,2026-07-12,15:00:00,18:00:00,3,91,Training,Approved,17,No,87,Used,0
+R242,Faculty,Multimedia Room,2026-02-04,2026-02-20,09:00:00,13:00:00,4,87,Training,Approved,16,No,82,Used,0
+R243,Student,Classroom,2026-03-05,2026-03-27,18:00:00,19:00:00,1,77,Meeting,Approved,22,Yes,72,Used,0
+R244,Faculty,Multimedia Room,2026-05-21,2026-06-19,14:00:00,16:00:00,2,29,Class Activity,Approved,29,No,27,Used,0
+R245,Student,Multimedia Room,2026-06-24,2026-07-01,15:00:00,19:00:00,4,75,Seminar,Approved,7,No,68,Used,0
+R246,Organization,Classroom,2026-05-12,2026-05-26,13:00:00,14:00:00,1,96,Presentation,Approved,14,No,92,Used,0
+R247,Faculty,Classroom,2026-03-07,2026-04-03,08:00:00,10:00:00,2,15,Meeting,Approved,27,No,9,Used,0
+R248,Organization,Multimedia Room,2026-01-18,2026-02-17,13:00:00,14:00:00,1,33,Lecture,Approved,30,No,31,Used,0
+R249,Organization,Laboratory,2026-04-08,2026-04-23,18:00:00,22:00:00,4,97,Lecture,Approved,15,Yes,87,Used,0
+R250,Student,Conference Room,2026-01-31,2026-02-06,14:00:00,18:00:00,4,38,Project Work,Approved,6,No,38,Used,0
+R251,Faculty,Conference Room,2026-06-22,2026-07-16,14:00:00,18:00:00,4,39,Seminar,Approved,24,No,36,Used,0
+R252,Organization,Classroom,2026-03-12,2026-03-19,15:00:00,16:00:00,1,94,Training,Approved,7,No,88,Used,0
+R253,Student,Classroom,2026-02-22,2026-02-25,08:00:00,09:00:00,1,96,Presentation,Approved,3,No,96,Used,0
+R254,Organization,Conference Room,2026-04-23,2026-05-01,14:00:00,16:00:00,2,17,Training,Approved,8,No,0,Cancelled,3
+R255,Organization,Laboratory,2026-05-28,2026-06-08,14:00:00,17:00:00,3,28,Presentation,Approved,11,No,18,Used,0
+R256,Faculty,Classroom,2026-03-18,2026-03-27,08:00:00,10:00:00,2,64,Lecture,Approved,9,No,56,Used,0
+R257,Faculty,Multimedia Room,2026-06-14,2026-07-06,13:00:00,16:00:00,3,62,Seminar,Approved,22,No,60,Used,0
+R258,Faculty,Classroom,2026-05-18,2026-06-03,09:00:00,11:00:00,2,100,Presentation,Approved,16,No,98,Used,0
+R259,Faculty,Classroom,2026-04-17,2026-05-05,14:00:00,16:00:00,2,42,Project Work,Approved,18,No,39,Used,0
+R260,Organization,Classroom,2026-04-05,2026-04-08,14:00:00,16:00:00,2,58,Class Activity,Approved,3,No,48,Used,0
+R261,Student,Laboratory,2026-02-18,2026-03-16,18:00:00,20:00:00,2,52,Training,Approved,26,Yes,48,Used,0
+R262,Organization,Laboratory,2026-01-31,2026-02-24,18:00:00,22:00:00,4,99,Presentation,Approved,24,Yes,0,No-Show,0
+R263,Faculty,Conference Room,2026-03-03,2026-03-21,10:00:00,13:00:00,3,78,Workshop,Approved,18,No,68,Used,0
+R264,Student,Conference Room,2026-04-03,2026-04-20,13:00:00,17:00:00,4,70,Lecture,Approved,17,No,65,Used,0
+R265,Organization,Multimedia Room,2026-04-16,2026-04-18,14:00:00,16:00:00,2,12,Workshop,Approved,2,No,8,Used,0
+R266,Organization,Conference Room,2026-02-09,2026-02-16,10:00:00,12:00:00,2,41,Workshop,Approved,7,No,34,Used,0
+R267,Student,Multimedia Room,2026-05-06,2026-05-30,15:00:00,19:00:00,4,55,Seminar,Approved,24,No,53,Used,0
+R268,Student,Multimedia Room,2026-05-19,2026-06-09,08:00:00,09:00:00,1,19,Seminar,Approved,21,No,0,Cancelled,2
+R269,Faculty,Classroom,2026-06-11,2026-06-19,08:00:00,10:00:00,2,74,Project Work,Approved,8,No,67,Used,0
+R270,Student,Conference Room,2026-06-18,2026-07-04,08:00:00,09:00:00,1,62,Workshop,Approved,16,No,62,Used,0
+R271,Student,Laboratory,2026-01-05,2026-01-22,18:00:00,22:00:00,4,32,Training,Approved,17,Yes,0,Cancelled,4
+R272,Student,Conference Room,2026-02-19,2026-03-11,14:00:00,17:00:00,3,44,Presentation,Approved,20,No,0,Cancelled,13
+R273,Organization,Classroom,2026-04-28,2026-05-17,09:00:00,11:00:00,2,20,Class Activity,Approved,19,No,10,Used,0
+R274,Student,Multimedia Room,2026-04-14,2026-04-27,13:00:00,17:00:00,4,11,Presentation,Approved,13,No,9,Used,0
+R275,Student,Multimedia Room,2026-06-15,2026-07-11,10:00:00,11:00:00,1,15,Workshop,Approved,26,No,0,Cancelled,8
+R276,Student,Laboratory,2026-01-12,2026-02-11,08:00:00,11:00:00,3,82,Lecture,Approved,30,No,0,Cancelled,22
+R277,Faculty,Laboratory,2026-01-05,2026-01-12,14:00:00,16:00:00,2,60,Training,Approved,7,No,0,Cancelled,1
+R278,Faculty,Laboratory,2026-05-26,2026-06-22,18:00:00,22:00:00,4,79,Class Activity,Approved,27,Yes,74,Used,0
+R279,Faculty,Multimedia Room,2026-05-09,2026-06-02,10:00:00,11:00:00,1,39,Lecture,Approved,24,No,38,Used,0
+R280,Faculty,Multimedia Room,2026-01-08,2026-01-29,10:00:00,14:00:00,4,55,Seminar,Approved,21,No,47,Used,0
+R281,Student,Classroom,2026-06-24,2026-07-13,15:00:00,19:00:00,4,89,Class Activity,Approved,19,No,85,Used,0
+R282,Student,Classroom,2026-03-10,2026-03-15,13:00:00,15:00:00,2,50,Meeting,Approved,5,No,45,Used,0
+R283,Faculty,Multimedia Room,2026-03-20,2026-04-04,10:00:00,13:00:00,3,21,Presentation,Approved,15,No,19,Used,0
+R284,Faculty,Multimedia Room,2026-01-27,2026-01-28,08:00:00,11:00:00,3,86,Meeting,Approved,1,No,77,Used,0
+R285,Organization,Laboratory,2026-03-16,2026-03-30,13:00:00,14:00:00,1,81,Presentation,Approved,14,No,78,Used,0
+R286,Student,Multimedia Room,2026-02-13,2026-02-18,10:00:00,13:00:00,3,28,Workshop,Approved,5,No,27,Used,0
+R287,Faculty,Laboratory,2026-04-18,2026-04-28,13:00:00,14:00:00,1,41,Project Work,Approved,10,No,31,Used,0
+R288,Organization,Multimedia Room,2026-01-28,2026-02-02,10:00:00,11:00:00,1,52,Lecture,Approved,5,No,0,No-Show,0
+R289,Faculty,Conference Room,2026-04-23,2026-05-04,13:00:00,15:00:00,2,87,Seminar,Approved,11,No,84,Used,0
+R290,Faculty,Multimedia Room,2026-04-12,2026-04-23,10:00:00,14:00:00,4,41,Workshop,Approved,11,No,0,No-Show,0
+R291,Organization,Classroom,2026-04-11,2026-04-23,08:00:00,10:00:00,2,79,Project Work,Approved,12,No,77,Used,0
+R292,Faculty,Multimedia Room,2026-02-23,2026-03-10,18:00:00,21:00:00,3,18,Seminar,Approved,15,Yes,0,Cancelled,14
+R293,Student,Multimedia Room,2026-06-12,2026-06-22,09:00:00,12:00:00,3,64,Project Work,Approved,10,No,58,Used,0
+R294,Organization,Classroom,2026-05-30,2026-06-12,14:00:00,18:00:00,4,56,Class Activity,Approved,13,No,48,Used,0
+R295,Organization,Multimedia Room,2026-03-05,2026-03-27,15:00:00,18:00:00,3,88,Lecture,Approved,22,No,88,Used,0
+R296,Organization,Laboratory,2026-04-21,2026-04-25,08:00:00,09:00:00,1,75,Project Work,Approved,4,No,67,Used,0
+R297,Student,Conference Room,2026-04-06,2026-04-19,13:00:00,15:00:00,2,13,Presentation,Approved,13,No,6,Used,0
+R298,Student,Multimedia Room,2026-01-22,2026-01-26,18:00:00,20:00:00,2,53,Lecture,Approved,4,Yes,46,Used,0
+R299,Organization,Classroom,2026-05-02,2026-05-06,13:00:00,17:00:00,4,48,Meeting,Approved,4,No,48,Used,0
+R300,Organization,Laboratory,2026-03-29,2026-04-19,08:00:00,10:00:00,2,41,Seminar,Approved,21,No,0,No-Show,0
+R301,Student,Laboratory,2026-03-26,2026-04-13,13:00:00,17:00:00,4,61,Presentation,Approved,18,No,51,Used,0
+R302,Student,Laboratory,2026-04-12,2026-04-13,15:00:00,17:00:00,2,64,Training,Approved,1,No,58,Used,0
+R303,Faculty,Conference Room,2026-03-13,2026-04-07,15:00:00,16:00:00,1,78,Training,Approved,25,No,76,Used,0
+R304,Organization,Multimedia Room,2026-04-28,2026-05-02,10:00:00,14:00:00,4,91,Presentation,Approved,4,No,86,Used,0
+R305,Organization,Conference Room,2026-05-31,2026-06-04,10:00:00,13:00:00,3,89,Class Activity,Approved,4,No,0,Cancelled,2
+R306,Faculty,Laboratory,2026-06-22,2026-06-27,10:00:00,11:00:00,1,24,Presentation,Approved,5,No,22,Used,0
+R307,Organization,Laboratory,2026-04-18,2026-05-08,09:00:00,13:00:00,4,72,Seminar,Approved,20,No,62,Used,0
+R308,Student,Conference Room,2026-05-06,2026-05-16,09:00:00,11:00:00,2,67,Meeting,Approved,10,No,58,Used,0
+R309,Organization,Multimedia Room,2026-05-05,2026-05-10,09:00:00,13:00:00,4,74,Presentation,Approved,5,No,0,No-Show,0
+R310,Student,Laboratory,2026-06-25,2026-07-11,13:00:00,17:00:00,4,20,Workshop,Approved,16,No,11,Used,0
+R311,Organization,Multimedia Room,2026-01-09,2026-01-18,09:00:00,12:00:00,3,68,Class Activity,Approved,9,No,59,Used,0
+R312,Organization,Laboratory,2026-05-27,2026-05-31,10:00:00,13:00:00,3,15,Presentation,Approved,4,No,8,Used,0
+R313,Faculty,Conference Room,2026-01-27,2026-02-20,18:00:00,20:00:00,2,14,Class Activity,Approved,24,Yes,7,Used,0
+R314,Organization,Multimedia Room,2026-04-23,2026-05-21,08:00:00,10:00:00,2,85,Seminar,Approved,28,No,80,Used,0
+R315,Faculty,Conference Room,2026-06-07,2026-06-12,18:00:00,20:00:00,2,17,Seminar,Approved,5,Yes,0,Cancelled,5
+R316,Student,Laboratory,2026-03-24,2026-04-16,10:00:00,13:00:00,3,75,Presentation,Approved,23,No,65,Used,0
+R317,Student,Conference Room,2026-01-16,2026-01-25,18:00:00,20:00:00,2,26,Training,Approved,9,Yes,23,Used,0
+R318,Faculty,Multimedia Room,2026-06-23,2026-07-06,13:00:00,15:00:00,2,44,Project Work,Approved,13,No,34,Used,0
+R319,Faculty,Multimedia Room,2026-01-20,2026-02-10,18:00:00,19:00:00,1,45,Lecture,Approved,21,Yes,40,Used,0
+R320,Organization,Conference Room,2026-05-29,2026-05-30,18:00:00,19:00:00,1,68,Class Activity,Approved,1,Yes,58,Used,0
+R321,Faculty,Conference Room,2026-05-17,2026-05-30,09:00:00,13:00:00,4,73,Lecture,Approved,13,No,0,Cancelled,5
+R322,Student,Classroom,2026-05-21,2026-06-09,09:00:00,13:00:00,4,97,Project Work,Approved,19,No,0,Cancelled,2
+R323,Student,Laboratory,2026-01-05,2026-01-09,18:00:00,20:00:00,2,10,Workshop,Approved,4,Yes,4,Used,0
+R324,Faculty,Laboratory,2026-02-10,2026-03-10,10:00:00,11:00:00,1,42,Meeting,Approved,28,No,41,Used,0
+R325,Student,Laboratory,2026-04-12,2026-05-03,10:00:00,12:00:00,2,21,Project Work,Approved,21,No,20,Used,0
+R326,Student,Conference Room,2026-01-20,2026-01-25,14:00:00,16:00:00,2,66,Class Activity,Approved,5,No,66,Used,0
+R327,Organization,Classroom,2026-04-19,2026-05-12,09:00:00,13:00:00,4,59,Class Activity,Approved,23,No,58,Used,0
+R328,Organization,Laboratory,2026-03-22,2026-04-03,10:00:00,12:00:00,2,27,Class Activity,Approved,12,No,17,Used,0
+R329,Organization,Laboratory,2026-05-16,2026-06-04,08:00:00,10:00:00,2,37,Presentation,Approved,19,No,27,Used,0
+R330,Student,Multimedia Room,2026-06-07,2026-06-29,13:00:00,15:00:00,2,22,Lecture,Approved,22,No,20,Used,0
+R331,Student,Conference Room,2026-04-20,2026-05-01,18:00:00,20:00:00,2,92,Meeting,Approved,11,Yes,91,Used,0
+R332,Organization,Multimedia Room,2026-06-18,2026-07-17,10:00:00,12:00:00,2,75,Workshop,Approved,29,No,72,Used,0
+R333,Faculty,Classroom,2026-06-15,2026-06-17,18:00:00,20:00:00,2,24,Meeting,Approved,2,Yes,21,Used,0
+R334,Faculty,Laboratory,2026-04-03,2026-05-03,10:00:00,12:00:00,2,82,Project Work,Approved,30,No,76,Used,0
+R335,Student,Multimedia Room,2026-01-19,2026-01-20,14:00:00,15:00:00,1,37,Workshop,Approved,1,No,37,Used,0
+R336,Organization,Laboratory,2026-06-10,2026-07-03,14:00:00,18:00:00,4,61,Workshop,Approved,23,No,60,Used,0
+R337,Organization,Conference Room,2026-01-22,2026-02-01,08:00:00,10:00:00,2,29,Presentation,Approved,10,No,0,No-Show,0
+R338,Student,Laboratory,2026-05-31,2026-06-21,18:00:00,19:00:00,1,65,Class Activity,Approved,21,Yes,62,Used,0
+R339,Student,Classroom,2026-04-22,2026-04-26,13:00:00,14:00:00,1,94,Seminar,Approved,4,No,92,Used,0
+R340,Organization,Conference Room,2026-06-29,2026-06-30,09:00:00,13:00:00,4,76,Seminar,Approved,1,No,0,No-Show,0
+R341,Faculty,Multimedia Room,2026-04-06,2026-04-11,15:00:00,18:00:00,3,25,Workshop,Approved,5,No,25,Used,0
+R342,Student,Multimedia Room,2026-05-15,2026-05-18,10:00:00,11:00:00,1,75,Seminar,Approved,3,No,70,Used,0
+R343,Student,Laboratory,2026-04-05,2026-04-11,10:00:00,11:00:00,1,96,Meeting,Approved,6,No,0,Cancelled,6
+R344,Faculty,Laboratory,2026-01-12,2026-02-09,18:00:00,19:00:00,1,70,Seminar,Approved,28,Yes,65,Used,0
+R345,Organization,Conference Room,2026-01-10,2026-01-28,18:00:00,22:00:00,4,41,Workshop,Approved,18,Yes,35,Used,0
+R346,Student,Classroom,2026-01-20,2026-02-08,10:00:00,11:00:00,1,16,Presentation,Approved,19,No,14,Used,0
+R347,Student,Multimedia Room,2026-01-18,2026-02-16,13:00:00,16:00:00,3,49,Meeting,Approved,29,No,0,Cancelled,11
+R348,Faculty,Multimedia Room,2026-04-05,2026-04-12,10:00:00,13:00:00,3,41,Training,Approved,7,No,34,Used,0
+R349,Student,Conference Room,2026-05-20,2026-06-14,18:00:00,20:00:00,2,62,Meeting,Approved,25,Yes,62,Used,0
+R350,Student,Laboratory,2026-03-27,2026-03-28,18:00:00,22:00:00,4,49,Presentation,Approved,1,Yes,0,Cancelled,1
+R351,Faculty,Conference Room,2026-05-06,2026-05-08,09:00:00,12:00:00,3,39,Project Work,Approved,2,No,31,Used,0
+R352,Organization,Classroom,2026-01-22,2026-02-10,08:00:00,10:00:00,2,60,Presentation,Approved,19,No,59,Used,0
+R353,Organization,Conference Room,2026-06-19,2026-06-24,09:00:00,12:00:00,3,50,Lecture,Approved,5,No,44,Used,0
+R354,Organization,Classroom,2026-04-26,2026-05-05,09:00:00,10:00:00,1,27,Seminar,Approved,9,No,0,No-Show,0
+R355,Faculty,Laboratory,2026-01-28,2026-02-03,13:00:00,17:00:00,4,25,Project Work,Approved,6,No,17,Used,0
+R356,Organization,Classroom,2026-03-20,2026-04-04,10:00:00,11:00:00,1,97,Training,Approved,15,No,93,Used,0
+R357,Organization,Classroom,2026-03-25,2026-03-30,08:00:00,10:00:00,2,60,Workshop,Approved,5,No,0,No-Show,0
+R358,Organization,Laboratory,2026-03-08,2026-04-04,09:00:00,10:00:00,1,67,Class Activity,Approved,27,No,0,No-Show,0
+R359,Student,Laboratory,2026-04-29,2026-05-03,18:00:00,20:00:00,2,17,Presentation,Approved,4,Yes,14,Used,0
+R360,Student,Classroom,2026-04-06,2026-04-28,15:00:00,16:00:00,1,43,Training,Approved,22,No,42,Used,0
+R361,Student,Multimedia Room,2026-06-15,2026-06-30,18:00:00,20:00:00,2,52,Meeting,Approved,15,Yes,51,Used,0
+R362,Student,Multimedia Room,2026-02-13,2026-03-15,14:00:00,18:00:00,4,60,Presentation,Approved,30,No,0,Cancelled,16
+R363,Student,Laboratory,2026-02-14,2026-02-26,09:00:00,11:00:00,2,67,Workshop,Approved,12,No,65,Used,0
+R364,Student,Multimedia Room,2026-05-08,2026-05-22,14:00:00,18:00:00,4,45,Training,Approved,14,No,39,Used,0
+R365,Faculty,Conference Room,2026-06-14,2026-07-13,18:00:00,20:00:00,2,79,Project Work,Approved,29,Yes,79,Used,0
+R366,Faculty,Multimedia Room,2026-05-20,2026-06-15,13:00:00,16:00:00,3,74,Workshop,Approved,26,No,0,No-Show,0
+R367,Faculty,Conference Room,2026-02-16,2026-02-17,10:00:00,12:00:00,2,45,Training,Approved,1,No,45,Used,0
+R368,Organization,Multimedia Room,2026-02-10,2026-02-14,09:00:00,11:00:00,2,17,Lecture,Approved,4,No,14,Used,0
+R369,Organization,Classroom,2026-02-14,2026-02-20,09:00:00,12:00:00,3,99,Lecture,Approved,6,No,0,Cancelled,3
+R370,Faculty,Laboratory,2026-05-26,2026-06-14,09:00:00,11:00:00,2,73,Project Work,Approved,19,No,0,Cancelled,18
+R371,Faculty,Classroom,2026-01-10,2026-01-13,08:00:00,10:00:00,2,12,Lecture,Approved,3,No,4,Used,0
+R372,Student,Classroom,2026-06-07,2026-06-14,18:00:00,20:00:00,2,32,Seminar,Approved,7,Yes,27,Used,0
+R373,Faculty,Multimedia Room,2026-05-31,2026-06-23,09:00:00,10:00:00,1,56,Class Activity,Approved,23,No,0,Cancelled,3
+R374,Organization,Multimedia Room,2026-03-28,2026-04-07,10:00:00,12:00:00,2,65,Lecture,Approved,10,No,0,No-Show,0
+R375,Faculty,Conference Room,2026-02-14,2026-03-09,14:00:00,17:00:00,3,85,Workshop,Approved,23,No,83,Used,0
+R376,Faculty,Classroom,2026-02-02,2026-02-08,15:00:00,16:00:00,1,83,Seminar,Approved,6,No,0,No-Show,0
+R377,Student,Conference Room,2026-06-04,2026-06-15,18:00:00,20:00:00,2,23,Class Activity,Approved,11,Yes,16,Used,0
+R378,Organization,Conference Room,2026-03-02,2026-03-14,10:00:00,12:00:00,2,21,Project Work,Approved,12,No,11,Used,0
+R379,Student,Classroom,2026-01-03,2026-01-12,09:00:00,11:00:00,2,54,Meeting,Approved,9,No,50,Used,0
+R380,Faculty,Multimedia Room,2026-04-09,2026-04-24,15:00:00,19:00:00,4,62,Lecture,Approved,15,No,0,No-Show,0
+R381,Organization,Laboratory,2026-05-20,2026-06-02,08:00:00,12:00:00,4,83,Seminar,Approved,13,No,0,Cancelled,11
+R382,Student,Classroom,2026-04-26,2026-04-29,18:00:00,19:00:00,1,50,Lecture,Approved,3,Yes,46,Used,0
+R383,Faculty,Multimedia Room,2026-02-13,2026-03-14,13:00:00,15:00:00,2,80,Meeting,Approved,29,No,79,Used,0
+R384,Student,Laboratory,2026-04-21,2026-05-12,09:00:00,13:00:00,4,22,Presentation,Approved,21,No,17,Used,0
+R385,Student,Classroom,2026-06-28,2026-07-16,15:00:00,18:00:00,3,48,Presentation,Approved,18,No,45,Used,0
+R386,Faculty,Classroom,2026-05-27,2026-06-14,18:00:00,22:00:00,4,56,Workshop,Approved,18,Yes,56,Used,0
+R387,Student,Conference Room,2026-06-19,2026-07-10,14:00:00,18:00:00,4,13,Class Activity,Approved,21,No,10,Used,0
+R388,Organization,Conference Room,2026-05-02,2026-05-30,08:00:00,11:00:00,3,70,Class Activity,Approved,28,No,0,Cancelled,16
+R389,Student,Multimedia Room,2026-06-14,2026-07-02,13:00:00,15:00:00,2,58,Meeting,Approved,18,No,53,Used,0
+R390,Student,Laboratory,2026-03-09,2026-03-24,13:00:00,16:00:00,3,44,Class Activity,Approved,15,No,35,Used,0
+R391,Student,Classroom,2026-01-22,2026-02-13,10:00:00,14:00:00,4,85,Presentation,Approved,22,No,0,No-Show,0
+R392,Faculty,Classroom,2026-05-14,2026-05-28,14:00:00,18:00:00,4,40,Presentation,Approved,14,No,33,Used,0
+R393,Student,Laboratory,2026-01-09,2026-01-26,14:00:00,16:00:00,2,67,Training,Approved,17,No,65,Used,0
+R394,Student,Laboratory,2026-02-02,2026-02-04,13:00:00,14:00:00,1,65,Workshop,Approved,2,No,0,No-Show,0
+R395,Organization,Conference Room,2026-03-23,2026-04-22,15:00:00,16:00:00,1,81,Workshop,Approved,30,No,75,Used,0
+R396,Organization,Multimedia Room,2026-05-14,2026-05-29,18:00:00,19:00:00,1,89,Class Activity,Approved,15,Yes,0,Cancelled,10
+R397,Student,Conference Room,2026-04-17,2026-04-22,09:00:00,10:00:00,1,82,Lecture,Approved,5,No,0,No-Show,0
+R398,Student,Conference Room,2026-04-16,2026-04-25,13:00:00,17:00:00,4,70,Presentation,Approved,9,No,70,Used,0
+R399,Student,Multimedia Room,2026-02-06,2026-02-26,14:00:00,18:00:00,4,52,Workshop,Approved,20,No,49,Used,0
+R400,Student,Laboratory,2026-04-06,2026-04-07,10:00:00,13:00:00,3,72,Seminar,Approved,1,No,62,Used,0
